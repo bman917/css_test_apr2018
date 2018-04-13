@@ -34,59 +34,47 @@ class App extends Component {
     return (
       <div className="App">
 
-        <div className="xxx container">
+        <div className="summaryCard container">
           <div className="row">
             <div className="col-sm mainColumn">
               <div className="row">
-                <div className="title col-sm-4">code</div>
-                <div className="value col-sm-8">ABCDEFGHIJK</div>
+                <div className="title col-4">code</div>
+                <div className="value col-8">ABCDEFGHIJK</div>
               </div>
               <div className="row">
-                <div className="title col-sm-4">Activation Code</div>
-                <div className="value col-sm-8">n/a - promotion is auto-applied</div>
+                <div className="title col-4">Activation Code</div>
+                <div className="value col-8">n/a - promotion is auto-applied</div>
               </div>
               <div className="row">
-                <div className="title col-sm-4">Description</div>
-                <div className="value col-sm-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</div>
+                <div className="title col-4">Description</div>
+                <div className="value col-8">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</div>
               </div>
               <div className="row">
-                <div className="title col-sm-4">code</div>
-                <div className="value col-sm-8">ABCDEFGHIJK</div>
-              </div>
-              <div className="row">
-                <div className="title col-sm-4">code</div>
-                <div className="value col-sm-8">ABCDEFGHIJK</div>
-              </div>
-              <div className="row">
-                <div className="title col-sm-4">code</div>
-                <div className="value col-sm-8">ABCDEFGHIJK</div>
-              </div>
-              <div className="row">
-                <div className="title col-sm-4">code</div>
-                <div className="value col-sm-8">ABCDEFGHIJK</div>
+                <div className="title col-4">Discount</div>
+                <div className="value col-8">20%</div>
               </div>
             </div>
 
             <div className="col-sm mainColumn">
               <div className="row">
-                <div className="title col-sm-4">code</div>
-                <div className="value col-sm-8">ABCDEFGHIJK</div>
+                <div className="title col-4">Form Of Payment</div>
+                <div className="value col-8">true</div>
               </div>
               <div className="row">
-                <div className="title col-sm-4">code</div>
-                <div className="value col-sm-8">1234455</div>
+                <div className="title col-4">Inventory Enabled</div>
+                <div className="value col-8">true</div>
               </div>
               <div className="row">
-                <div className="title col-sm-4">code</div>
-                <div className="value col-sm-8">1234455</div>
+                <div className="title col-4">Published Date</div>
+                <div className="value col-8">15 Sep, 8:56 AM(2013)</div>
               </div>
               <div className="row">
-                <div className="title col-sm-4">code</div>
-                <div className="value col-sm-8">1234455</div>
+                <div className="title col-4">Return All Fares</div>
+                <div className="value col-8">true</div>
               </div>
-              <div id="last_item" className="row">
-                <div className="title col-sm-4">code</div>
-                <div className="value col-sm-8">1234455</div>
+              <div className="row">
+                <div className="title col-4">Ticket Designator</div>
+                <div className="value col-8">ABCDEFJHIJKLMNOP1234567890</div>
               </div>
 
             </div>
