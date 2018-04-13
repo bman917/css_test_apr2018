@@ -36,7 +36,7 @@ class App extends Component {
 
         <div className="summaryCard container">
           <div className="row">
-            <div className="col-sm mainColumn">
+            <div className="col-lg mainColumn">
               <div className="row">
                 <div className="title col-4">code</div>
                 <div className="value col-8">ABCDEFGHIJK</div>
@@ -55,7 +55,7 @@ class App extends Component {
               </div>
             </div>
 
-            <div className="col-sm mainColumn">
+            <div className="col-lg mainColumn">
               <div className="row">
                 <div className="title col-4">Form Of Payment</div>
                 <div className="value col-8">true</div>
